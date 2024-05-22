@@ -1,0 +1,24 @@
+
+.areas {
+    float: left;
+    margin: 30pt;
+}
+
+#preview {
+    width: 400pt;
+    height: 850pt;
+    border: 5pt solid white;
+}
+
+img {
+    width: 300pt;
+    height: 90pt;
+}
+
+#previewer {
+    margin: 30pt default;
+}
+
+.header {
+    text-align: center;
+}
